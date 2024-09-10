@@ -85,7 +85,7 @@ const AnimatedText = () => {
       <p className="absolute bottom-4">
         with ❤️ and sapa. {""}
         <a
-          href="https://github.com/AbrahamAlgorithm/send-funds"
+          href="https://github.com/AbrahamAlgorithm"
           className="text-blue-300"
         >
           Repo
